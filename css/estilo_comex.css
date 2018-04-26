@@ -1,0 +1,23 @@
+.a{
+    /*background-color: aqua;*/
+    border-style: solid;
+    border-width: 1px;
+}
+.boton1{
+    background-color: #fca800;
+    color: white;
+    border-radius: 20px;
+    width: 180px;
+}
+.fondo1{
+    height: calc(720px - 446px);
+}
+.b{
+    height: 50%;
+}
+.b img{
+    width: 100%;/*usar clac para ajustar la altura total*/
+    height: 100%;
+    object-fit: cover;
+    padding: 10px 0;
+}
